@@ -68,6 +68,9 @@ section{
     border-radius: 5px;
     color: white;
 }
+.small{
+    color: dimgray;
+}
 footer{
     text-align: center;
 }
